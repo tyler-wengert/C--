@@ -1,1 +1,1 @@
-C++ programs I created recently as a refresher for my C++
+Programs I wrote recently as a refresher for my C++
