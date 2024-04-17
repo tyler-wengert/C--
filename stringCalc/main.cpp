@@ -3,7 +3,8 @@
 
 int total(std::string name, int age)
 {
-    return static_cast<int>(name.length()) + age;
+    //return static_cast<int>(name.length()) + age; //unsigned with cast
+    return ssize(name) + age; //signed
 }
 
 int main()
